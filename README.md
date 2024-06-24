@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on **To do app**
 
 - 🌱 I’m currently learning **React**
+- 📝 I regularly post on [https://www.linkedin.com/in/rohit-kumar-138201227](https://www.linkedin.com/in/rohit-kumar-138201227)
 
 - 📫 How to reach me **rkumar.kumar899@gmail.com**
 
