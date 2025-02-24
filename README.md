@@ -7,12 +7,12 @@
 
 - 🔭 I’m currently working on **To do app**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend development**
 - 📝 I regularly post on [https://www.linkedin.com/in/rohit-kumar-138201227](https://www.linkedin.com/in/rohit-kumar-138201227)
 
 - 📫 How to reach me **rkumar.kumar899@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I like to read a book**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
